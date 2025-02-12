@@ -1,0 +1,22 @@
+{
+  "name": "hugo-mock-landing-page",
+  "version": "1.0.0",
+  "description": "CIS 3500 Spring 2025 HW1",
+  "main": "index.js",
+  "scripts": {
+    "build": "hugo",
+    "start": "hugo server -D --disableFastRender",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CeciliaZhang6/hugo-mock-landing-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CeciliaZhang6/hugo-mock-landing-page/issues"
+  },
+  "homepage": "https://github.com/CeciliaZhang6/hugo-mock-landing-page#readme"
+}
