@@ -1,5 +1,5 @@
-# hugo-mock-landing-page
-CIS 3500 Spring 2025 HW1
+# hugo-mock-landing-page-autodeployed
+CIS 3500 Spring 2025 HW2
 
 ## How to build
 npm run build
