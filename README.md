@@ -27,8 +27,12 @@ The workflow is defined in .github/workflows/gh-pages-deployment.yaml
 This will automatically trigger GitHub Actions to rebuild and deploy the site.
 
 ## Additional Resources
-- [Import a Repo] (https://docs.github.com/en/migrations/importing-source-code/using-github-importer/importing-a-repository-with-github-importer)
-- [Configuring the default GITHUB_TOKEN permissions] (https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/managing-github-actions-settings-for-a-repository#configuring-the-default-github_token-permissions)
-- [Set the publishing source to gh-pages] (https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
-- [Managing GitHub Actions permissions for your repository] (https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
+- Import a Repo
+  (https://docs.github.com/en/migrations/importing-source-code/using-github-importer/importing-a-repository-with-github-importer)
+- Configuring the default GITHUB_TOKEN permissions
+  (https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/managing-github-actions-settings-for-a-repository#configuring-the-default-github_token-permissions)
+- Set the publishing source to gh-pages
+  (https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
+- Managing GitHub Actions permissions for your repository
+  (https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
 
